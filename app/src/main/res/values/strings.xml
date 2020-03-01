@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubApi</string>
+    <string name="repo_name">Repo name</string>
+    <string name="url">URL</string>
+    <string name="stars">Stars</string>
+    <string name="watchers">Watchers</string>
+</resources>
